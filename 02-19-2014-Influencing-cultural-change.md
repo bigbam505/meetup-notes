@@ -2,7 +2,10 @@ Influencing Cultural Change By Ryan Frantz
 ===========================================
 ## 2/19/2014
 
-Continuous Delivery meetup important take aways
+### Links
+* [Slides](https://speakerdeck.com/ryanfrantz/influencing-cultural-change)
+* [Meetup Event](http://www.meetup.com/DC-continuous-delivery/events/161717612/)
+* [Continuous Delivery Group](http://www.meetup.com/DC-continuous-delivery/)
 
 ### Some take aways
 * Soft skills are the hardest to master
